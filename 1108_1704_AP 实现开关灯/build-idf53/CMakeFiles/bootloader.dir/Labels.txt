@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/CMakeFiles/bootloader
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/CMakeFiles/bootloader.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/CMakeFiles/bootloader-complete.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/apple/ZAT/MyCode/03_WiFi_AP/build-idf53/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

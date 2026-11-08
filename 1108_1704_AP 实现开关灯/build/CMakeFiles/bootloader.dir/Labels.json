@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/apple/ZAT/MyCode/03_WiFi_AP/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
